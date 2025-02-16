@@ -1,4 +1,4 @@
-package com.brunobasques_jsp.second_challange.entities;
+package com.brunobasques_jsp.second_challenge.entities;
 
 import java.io.Serializable;
 import java.util.HashSet;

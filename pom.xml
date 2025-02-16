@@ -8,10 +8,10 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.brunobasques_jsp.second_challange</groupId>
-	<artifactId>SecondChallangeApplication</artifactId>
+	<groupId>com.brunobasques_jsp.second_challenge</groupId>
+	<artifactId>SecondChallengeApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SecondChallangeApplication</name>
+	<name>SecondChallengeApplication</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
