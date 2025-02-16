@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-SecondChallenge é uma aplicação backend construída como atividade avaliativa do curso Java Spring Professional, ministrado pelo professor Nelio Alves (https://www.linkedin.com/in/nelio-alves/).
+SecondChallenge é uma aplicação backend construída como atividade avaliativa do curso Java Spring Professional, ministrado pelo professor ![Nelio Alves](https://www.linkedin.com/in/nelio-alves/).
 
 A aplicação consiste no mapeamento das entidades como mostrado no modelo conceitual e com a criação de seeding de acordo com o diagrama de dados. Os dados dessas operações são armazenados no banco local H2.
 
@@ -29,8 +29,8 @@ Pré-requisitos: Java 21
 # clonar repositório
 git clone [https://github.com/Bruno-Basques/JavaSpringProfessional-SecondChallenge.git]
 
-# entrar na pasta do projeto back end
-cd backend
+# entrar na pasta do projeto JavaSpringProfessional-SecondChallenge
+cd JavaSpringProfessional-SecondChallenge
 
 # executar o projeto
 mvnw spring-boot:run
